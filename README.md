@@ -35,4 +35,18 @@ Follow these instructions to set up and run the application:
    ```bash
    npm install
    ```
+4. Configure the database connection:
+   
+   - Create a MySQL database for the application.
+   - Set your MySQL database credentials and other environment variables in the `.env` file.
+
+5. Start the application:
+
+   ```bash
+   npm start
+   ```
+
+## API Documentation
+
+For detailed API documentation and examples of how to use the endpoints, please take a look at the [API Documentation](https://documenter.getpostman.com/view/28416524/2s9YBxacHG).
 
