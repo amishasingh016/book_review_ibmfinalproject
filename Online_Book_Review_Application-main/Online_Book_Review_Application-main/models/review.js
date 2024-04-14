@@ -11,4 +11,7 @@ const review = sequelize.define('Review', {
         allowNull: false
     }
 });
+user.belongsToMany(book, { through: review });
+book.belongsToMany(user, { through: review });
 
+export default review;
