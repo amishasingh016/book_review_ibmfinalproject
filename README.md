@@ -1,4 +1,4 @@
-# Online Book Review Server-Side Application
+# Online Book Review Application
 
 Welcome to the Online Book Review Server-Side Application, the final project for the IBM Course "Developing back-end apps with Node.js and Express." This application allows users to manage books, write reviews, and interact with book-related data. It utilizes MySQL as the database and Sequelize.js as the ORM (Object-Relational Mapping) tool.
 
@@ -50,3 +50,4 @@ Follow these instructions to set up and run the application:
 
 For detailed API documentation and examples of how to use the endpoints, please take a look at the [API Documentation](https://documenter.getpostman.com/view/28416524/2s9YBxacHG).
 
+THANKYOU
